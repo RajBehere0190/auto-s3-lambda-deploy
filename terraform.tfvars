@@ -1,0 +1,5 @@
+aws_region    = "us-east-1"
+environment   = "dev"
+instance_type = "t2.micro"
+key_pair_name = "login1"                  
+bucket_name   = "my-static-website-2024-unique56"
